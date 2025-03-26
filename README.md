@@ -1,6 +1,6 @@
 # Scraper de Produtos da Amazon
 
-Este projeto é uma aplicação simples de raspagem de dados da Amazon, utilizando Node.js (com Bun), Axios e JSDOM. O objetivo do projeto é permitir que o usuário busque produtos na Amazon e exiba informações como título, avaliação, número de avaliações e imagens dos produtos.
+Este projeto é uma aplicação simples de busca de dados da Amazon, utilizando Node.js (com Bun), Axios e JSDOM. O objetivo do projeto é permitir que o usuário busque produtos na Amazon e exiba informações como título, avaliação, número de avaliações e imagens dos produtos.
 
 ## Funcionalidades
 
